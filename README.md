@@ -1,5 +1,5 @@
 # leg-length-discrepancy-study
-The code is for the paper "Measurement of leg length discrepancies in children based on X-ray imaging data using a deep learning algorithm" in Radiology.
+The code is for the paper "Deep Learning Measurement of Leg Length Discrepancy in Children Based on Radiographs" in Radiology.
 
 Copyright 2019, Yantai University, Children's Hospital of Philadelphia, Univeristy of Pennsylvania
 All rights reserved
